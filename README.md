@@ -27,7 +27,7 @@ Aubrey created this app while enrolled in a strenuous six-month software enginee
 
 ## Mock Up:
 
-![index](./images/group.jpeg)
+![index](./images/Index.jpeg)
 ![show](./images/Show.jpeg)
 ![create](./images/Create.jpeg)
 ![update](./images/Edit.jpeg)
