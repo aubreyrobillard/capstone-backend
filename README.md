@@ -46,6 +46,7 @@ made with https://app.smartdraw.com/
 ## Future Enhancements:
 - In order to create a better user experience, I will be adding functions that enable the edit form to be rendered only for the sign being updated.
 - A user sear bar/filter feature to search sign cards by name, id, date-created, etc..
-- Camera/audio API to allow users to record photos/videos to input into the app while inside of the app. 
+- Camera/audio API to allow users to record photos/videos to input into the app while inside of the app.
+- Authorization
 
 
